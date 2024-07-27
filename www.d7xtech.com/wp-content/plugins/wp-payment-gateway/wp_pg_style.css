@@ -1,0 +1,5 @@
+@CHARSET "ISO-8859-1";
+.wp_pg_error_msg{color: red;margin:5px !important;}
+
+.wp_pg_clickbank_buy_button{width: auto !important;border: 1px solid #CCCCCC;padding:4px;}
+.wp_pg_clickbank_buy_button:hover{opacity:0.8;}
